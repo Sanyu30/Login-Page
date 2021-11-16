@@ -1,0 +1,92 @@
+body {
+     background-color:lightsteelblue;
+     margin: 0%; font-family: 'Courier New', Courier, monospace;
+     background: url(./back.jpg)no-repeat;
+     background-size: 100%;
+     
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+
+
+}
+#log :hover{
+    opacity: 0.8;
+}
+
+#cancel :hover{
+    opacity: 0.8;
+}
+.remeber {
+    color: aliceblue;
+}
+
+
+.login {
+    margin: auto;
+    width: 300px;
+    background:blanchedalmond;
+    border-radius: 40px;
+    padding: 60px;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    
+}
+.soical {
+margin-left: auto;
+margin-right: auto;
+  display: block;
+  
+
+}
+label {
+    font-size: 20px;
+    color:aliceblue;
+
+}
+
+#Username {
+    width: 250px;
+    height: 20px;
+    padding-left: 5px;
+    border: 1px;
+    border-radius: 3px;  
+}
+
+#Password {
+    width: 255px;
+    height: 20px;
+    padding-left: 5px;
+    border: 1px;;
+    border-radius: 3px;
+}
+#log {
+    width: 120px;
+    height: 30px;
+    
+    border: none;
+    border-radius: 14px;
+    background-color: purple;
+    color: black;
+
+}
+#cancel {
+   
+    width: 120px;
+    height: 30px;
+    border: none;
+    border-radius: 12px;
+    background-color: purple;
+    color: black;
+
+}
+.message {
+    color: aliceblue;
+}
+a{
+    color:darkgray;
+    font-size: 17PX;
+    font-weight: bold;
+}
